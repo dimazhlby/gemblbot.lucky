@@ -1,1 +1,1 @@
-# gemblbot.lucky
+# grizliq delaet
