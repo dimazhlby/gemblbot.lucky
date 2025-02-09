@@ -77,5 +77,4 @@ function updateCoefficients(coefficients) {
 }
 
 fetchDataAndUpdate();
-setInterval(fetchDataAndUpdate, 100);
 checkSignal();
